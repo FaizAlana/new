@@ -1,0 +1,24 @@
+.jumbotron {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.join{
+  background-color: #0099ff;
+}
+
+.contact{
+  background-color: #0099ff;
+}
+
+.icon{
+  display: inline;
+}
+
+.container1{
+  position: relative;
+  top: 200px;
+}
